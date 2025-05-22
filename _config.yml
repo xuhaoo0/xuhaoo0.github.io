@@ -24,11 +24,12 @@ author:
   avatar           : "profile.jpg"
   name             : "Xu Hao(徐浩)"
   pronouns         : # example: "she/her"  
-  bio              : "Master student in BIT"
+  bio              : "wechat: xh18723832433"
   location         : "Beijing, China"
   #employer         : "Red Brick University"
-  uri              : "xh18723832433"
+  uri              : # URL
   email            : # "xxx@x.com" 
+  
 
   # Academic websites
   arxiv            : # URL - Update with the correct link to your profile
