@@ -17,8 +17,8 @@ I am currently exploring my research interests.
 * B.E. in Software Engineering, Beijing Institute of Technology(2021–2025)
 
 ## Interests
-* **Sport**: I enjoy fitness training, running, basketball, and table tennis. I also play a bit of badminton. My favorite athlete is Stephen Curry.  
-* **Music**: I'm a big fan of David Tao, Khalil Fong, and Jay Chou. I've also listened to a wide range of mainstream Mandarin pop songs.  
+* **Sport**: I'm passionate about fitness training, running, basketball, and table tennis, and I occasionally play badminton as well. My favorite athlete is Stephen Curry.  
+* **Music**: I enjoy the music of David Tao, Khalil Fong, and Jay Chou. I've also listened to a wide range of mainstream Mandarin pop songs.  
 * **Photography**: I own a Canon R10 and have a particular interest in portrait photography.  
 * **Outdoor**: I love being close to nature, whether it's a walk in the park or traveling to new places.
 
