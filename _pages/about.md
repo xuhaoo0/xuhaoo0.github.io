@@ -13,8 +13,8 @@ I am currently exploring my research interests.
 *Last updated: 2025.6*
 
 ## Education Experience
-* M.E. in Artificial Intelligence, Beijing Institute of Technology (2025–present)  
-* B.E. in Software Engineering, Beijing Institute of Technology (2021–2025)
+* M.E. in Artificial Intelligence, Beijing Institute of Technology (2025 ~ present)  
+* B.E. in Software Engineering, Beijing Institute of Technology (2021 ~ 2025)
 
 ## Interests
 * **Sport**: I'm passionate about fitness training, running, basketball, and table tennis, and I occasionally play badminton as well. My favorite athlete is Stephen Curry.  
