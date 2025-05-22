@@ -8,6 +8,7 @@ redirect_from:
 ---
 
 I am a Master's student at the School of Computer Science, [Beijing Institute of Technology (BIT)](https://www.bit.edu.cn/), conducting research in the Perception, Interaction, Embodiment Lab (Pie Lab) under the supervision of [Prof. Wei Liang](https://pie-lab.cn/).
+
 I am currently exploring my research interests.  
 *Last updated: 2025.6*
 
