@@ -12,7 +12,7 @@ I am currently exploring my research interests.
 
 *Last updated: 2025.6*
 
-## Education Experience
+## Education
 * M.E. in Artificial Intelligence, Beijing Institute of Technology (2025 ~ present)  
 * B.E. in Software Engineering, Beijing Institute of Technology (2021 ~ 2025)
 
