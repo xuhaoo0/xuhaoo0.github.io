@@ -7,47 +7,19 @@ redirect_from:
   - /about.html
 ---
 
-I'm a First-year doctoral student from [School of Computer Science and Engineering](https://cs.njust.edu.cn/), [Nanjing University of Science and Technology](https://www.njust.edu.cn/). 
-
-I am very fortunate to be advised by [Prof. Kun Zhang](http://kunzhangcn.net/) from [School of CSE](https://www.njust.edu.cn/), NJUST. I also worked closely with [Prof. Hao Peng](https://mypage.zjnu.edu.cn/hpeng/zh_CN/) and [Prof. Wei Wang](https://gwgl.cqmu.edu.cn/info/1214/5264.htm) during my M.S. time.
-
-My research interest includes Network science, network security.
+I am a Master's student at the School of Computer Science, [Beijing Institute of Technology (BIT)](https://www.bit.edu.cn/), conducting research in the Perception, Interaction, Embodiment Lab (Pie Lab) under the supervision of [Prof. Wei Liang](https://pie-lab.cn/).
+I am currently exploring my research interests.  
+*Last updated: 2025.6*
 
 ## Education Experience
-* Ph.D in Nanjing, Nanjing University of Science and Technology, 2028 (expected)
-* M.S. in Jinhua, Zhejiang Normal University, 2021
-* B.S. in Tongling, Tongling University, 2017
+* M.E. in Artificial Intelligence, Beijing Institute of Technology(2025–present)  
+* B.E. in Software Engineering, Beijing Institute of Technology(2021–2025)
 
-## Skills
-* Network science
-  * Network reliability analysis
-  * Complex network visualization
-* Network security
-  * Protocol Reverse Engineering
+## Interests
+* **Sport**: I enjoy fitness training, running, basketball, and table tennis. I also play a bit of badminton. My favorite athlete is Stephen Curry.  
+* **Music**: I'm a big fan of David Tao, Khalil Fong, and Jay Chou. I've also listened to a wide range of mainstream Mandarin pop songs.  
+* **Photography**: I own a Canon R10 and have a particular interest in portrait photography.  
+* **Outdoor**: I love being close to nature, whether it's a walk in the park or traveling to new places.
 
 ## Publications
-  <ul>{% for post in site.publications reversed %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-## Participate in a project or competition
-* ​Jiangsu Province Graduate Student Scientific Research and Practical Innovation Program, 2025-2026
-* National key research and development project (participation), 2023
-* National Innovation and Entrepreneurship Training Program (hosted), 2019.09-2020.05
-* The Huawei Cup Postgraduate Mathematical Modeling Competition third prize, 2021
-* China University Student Computer Design Competition, 2020
-* Anhui University Student Service Outsourcing Innovation and Entrepreneurship Competition first prize, 2020
-* Anhui Internet of Things Innovation Competition first prize, 2020
-* Anhui Province mathematics contest second prize, 2020
-* Anhui Province information security works competition third prize, 2020
-* Anhui Province Network Attack and Defense Competition (CTF) second prize, 2020
-* Anhui Computer Design Competition second prize, 2020
-* Anhui Robot Competition Program Design Class (ACM) third prize, 2019
-
-## Honors & Awards
-* National Scholarship, 2023
-* Special Award of President of Zhejiang Normal University, 2023
-* Outstanding Graduate of Zhejiang Normal University, 2023
-* Outstanding Graduate of Anhui province, 2016
-
-[Email](mailto:lingxw@njust.edu.cn) / [Github](https://github.com/Lingxianwen) / [CSDN](https://lingxw.blog.csdn.net/)
+Still exploring...
