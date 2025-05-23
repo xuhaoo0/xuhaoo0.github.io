@@ -83,12 +83,12 @@
    ========================================================================== */
 
 .author__avatar {
-  width: 250px;
-  height: 250px;
+  width: 230px;
+  height: 230px;
 
   @include breakpoint($large) {
-    width: 250px;
-    height: 250px;
+    width: 230px;
+    height: 230px;
   }
 
   img {
