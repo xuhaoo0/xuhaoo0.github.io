@@ -7,10 +7,8 @@ redirect_from:
   - /about.html
 ---
 
-I am a Master's student at the School of Computer Science, [Beijing Institute of Technology (BIT)](https://www.bit.edu.cn/), conducting research in the Perception, Interaction, Embodiment Lab (Pie Lab) under the supervision of [Prof. Wei Liang](https://pie-lab.cn/).  
-I am interested in the principles and applications of LLMs, VLMs and MM-LLMs. I am currently exploring my research direction.  
-
-*Last updated: 2025.6*
+* I am a Master's student at the School of Computer Science, [Beijing Institute of Technology (BIT)](https://www.bit.edu.cn/), conducting research in the Perception, Interaction, Embodiment Lab (Pie Lab) under the supervision of [Prof. Wei Liang](https://pie-lab.cn/).  
+* I am interested in the principles and applications of LLMs, VLMs and MM-LLMs. I am currently exploring my research direction.  
 
 ## Education
 * M.E. in Artificial Intelligence, Beijing Institute of Technology (2025 ~ present)  
@@ -23,4 +21,6 @@ I am interested in the principles and applications of LLMs, VLMs and MM-LLMs. I 
 * **Outdoor**: I love being close to nature, whether it's a walk in the park or traveling to new places.
 
 ## Publications
-Exploring...
+Exploring...  
+
+*Last updated: 2025.6*
