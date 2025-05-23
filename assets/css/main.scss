@@ -40,10 +40,3 @@
 @import "vendor/magnific-popup/magnific-popup";
 @import "print";
 
-
-.author__avatar img {
-  border-radius: 50% !important;  // 圆形边角
-  width: 120px !important;        // 固定宽度（可根据需要调整）
-  height: 120px !important;       // 固定高度
-  object-fit: cover !important;   // 裁剪填充图片
-}
