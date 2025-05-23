@@ -83,25 +83,24 @@
    ========================================================================== */
 
 .author__avatar {
-  display: table-cell;
-  vertical-align: top;
-  width: 100px;
+  width: 200px;
+  height: 200px;
 
   @include breakpoint($large) {
-    display: block;
-    width: auto;
-    height: auto;
+    width: 200px;
+    height: 200px;
   }
 
   img {
-    width: 200px;
-    height: 200px;
+    width: 100%;
+    height: 100%;
     object-fit: cover;
     border-radius: 50%;
     padding: 0;
     border: none;
   }
 }
+
 
 
 
