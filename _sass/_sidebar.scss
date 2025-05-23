@@ -94,17 +94,15 @@
   }
 
   img {
-    width: 120px;
-    height: 120px;
+    width: 200px;
+    height: 200px;
     object-fit: cover;
     border-radius: 50%;
-
-    @include breakpoint($large) {
-      padding: 0;
-      border: none;
-    }
+    padding: 0;
+    border: none;
   }
 }
+
 
 
 .author__content {
